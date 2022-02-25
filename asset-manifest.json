@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tgame/static/css/main.a8921be5.css",
+    "main.js": "/tgame/static/js/main.5611e6b1.js",
+    "static/media/restartSound.mp3": "/tgame/static/media/restartSound.20a42090adfd81c3a9a8.mp3",
+    "static/media/selectSound.mp3": "/tgame/static/media/selectSound.ce4fa242e4de9581ca63.mp3",
+    "index.html": "/tgame/index.html",
+    "main.a8921be5.css.map": "/tgame/static/css/main.a8921be5.css.map",
+    "main.5611e6b1.js.map": "/tgame/static/js/main.5611e6b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8921be5.css",
+    "static/js/main.5611e6b1.js"
+  ]
+}
